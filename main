@@ -1,0 +1,7 @@
+#include<stdio>
+void main()
+{
+int i,j,k;
+printf("hello world !");
+return 0;
+}
